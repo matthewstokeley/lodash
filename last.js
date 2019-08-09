@@ -4,7 +4,7 @@
  * @since 0.1.0
  * @category Array
  * @param {Array} array The array to query.
- * @returns {*} Returns the last element of `array`.
+ * @returns {Any} Returns the last element of `array`.
  * @example
  *
  * last([1, 2, 3])
